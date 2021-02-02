@@ -1,0 +1,21 @@
+name: rounded_button
+description: Easy to use Pre-made Rounded Buttons with advanced features for Flutter.
+version: 1.0.0
+homepage: https://github.com/FTKhanFT/
+repository: https://github.com/FTKhanFT/Rounded_Button
+issue_tracker: https://github.com/FTKhanFT/Rounded_Button/issues
+documentation: https://github.com/FTKhanFT/Rounded_Button#getting-started
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
