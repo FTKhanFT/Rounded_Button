@@ -2,6 +2,8 @@
 
 ```Easy to use Pre-made Rounded Buttons with advanced features for Flutter.```
 
+![Alt text](/screenshot.png?raw=true "Rounded Button")
+
 ## Getting Started
 
 First you have to add the package dependency in ```pubspec.yml```
