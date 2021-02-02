@@ -2,7 +2,9 @@
 
 ```Easy to use Pre-made Rounded Buttons with advanced features for Flutter.```
 
-![Alt text](/screenshot.png?raw=true "Rounded Button")
+Check the example project.
+
+<img src="./screenshot.png" width="400"/>
 
 ## Getting Started
 
