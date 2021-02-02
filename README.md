@@ -4,7 +4,7 @@
 
 Check the example project.
 
-<img src="./screenshot.png" width="400"/>
+<img src="https://github.com/FTKhanFT/Rounded_Button/blob/main/screenshot.png?raw=true" width="400"/>
 
 ## Getting Started
 
